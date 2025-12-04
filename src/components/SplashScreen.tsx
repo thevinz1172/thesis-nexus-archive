@@ -100,7 +100,7 @@ const SplashScreen = () => {
             <h1 className={`font-bold tracking-tight transition-all duration-1000 ${isLoaded ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'
               }`}>
               <span className="text-4xl md:text-5xl lg:text-6xl block leading-tight bg-gradient-to-r from-white via-blue-100 to-white bg-clip-text text-transparent drop-shadow-[0_4px_12px_rgba(0,0,0,0.9)]">
-                Integrated Digital Repository for LPU-Batangas Theses and Dissertations
+                Daily Record of Users of the SLRC Research Collection
               </span>
             </h1>
 
